@@ -15,8 +15,8 @@ module.exports = {
       }], {});
     */
     queryInterface.bulkInsert('Users', [{
-      email: 'admin@yopmail.com',
-      password: 'admin123',
+      email: 'rishi@yopmail.com',
+      password: 'rishi123',
       createdAt: new Date(new Date(new Date()).getTime() + 60 * 60 * 24 * 1000),
       updatedAt: new Date(new Date(new Date()).getTime() + 60 * 60 * 24 * 1000),
     }], {}),
