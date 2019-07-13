@@ -1,15 +1,15 @@
 {
   "name": "express-rest-api-boilerplate",
   "version": "0.0.0",
-  "author": "Lukas Aichbauer <l.aichbauer@gmail.com>",
+  "author": "Rishi Verma rishianand001@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aichbauer/express-rest-api-boilerplate.git"
+    "url": "git+https://github.com/rishianand0001/nodeboilerplate.git"
   },
-  "homepage": "https://github.com/aichbauer/express-rest-api-boilerplate#readme",
+  "homepage": "https://github.com/rishianand0001/nodeboilerplate.git#readme",
   "bugs": {
-    "url": "https://github.com/aichbauer/express-rest-api-boilerplate/issues"
+    "url": "https://github.com/rishianand0001/nodeboilerplate.git/issues"
   },
   "scripts": {
     "start": "npm run nodemon",
