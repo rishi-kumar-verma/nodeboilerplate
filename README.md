@@ -1,4 +1,4 @@
-# mode Express with jwt  Boilerplate
+# node Express with jwt  Boilerplate
 
 1. Go to project folder and install dependencies:
 
